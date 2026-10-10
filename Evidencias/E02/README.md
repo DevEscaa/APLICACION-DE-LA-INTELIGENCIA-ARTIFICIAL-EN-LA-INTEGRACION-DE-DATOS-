@@ -144,3 +144,6 @@
 - Tratamiento Estadístico: En la Tarea 2, imputar valores faltantes por mediana en lugar de promedio evitó que valores atípicos distorsionaran los datos.
 
 -  Cumplimiento Legal y Ético: Se integraron parámetros de anonimización de datos sensibles bajo la normatividad de Habeas Data (Ley 1581 de 2012)
+
+## 🤖 Asistencia Tecnológica
+* Informe técnico redactado, estructurado y documentado con el apoyo de herramientas de Inteligencia Artificial Generativa (Gemini) como asistente de desarrollo técnico. 
